@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    background-color: pink;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: 2px solid black;
+
+}
+
+.child1 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.child2 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.child3 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.child4 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.child5 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child6 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.child7 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.child8 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.child9 {
+    background-color: red;
+    height: 30%;
+    width: 30%;
+    text-align: center;
+    margin: 2px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.innerchild {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+}
