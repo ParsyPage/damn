@@ -135,6 +135,17 @@ footer {
   font-size: 14px;
 }
 
+.rf button{ 
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding-bottom: 10px;
+  font-size: 14px;
+  margin: 0;
+  width: 100%
+}
+
 .lf {
   display: flex;
   gap: 10px;
